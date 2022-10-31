@@ -1,0 +1,10 @@
+﻿{
+  "Logger": {
+    "DirectoryPath": "Logs/",
+    "FileName": "log_",
+    "FileExtention": "txt",
+    "N": 5,
+    "RepeatCount": 50,
+    "BackupMessage": "It`s Backup Time!"
+  }
+}
